@@ -5,14 +5,14 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.riteny</groupId>
-    <artifactId>common-util-exception-kotlin</artifactId>
+    <artifactId>module-exception-handler-kotlin</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
         <module>app-sample-common-exception-handler</module>
         <module>app-starter-sample-common-exception-handler</module>
-        <module>common-util-exception-handler</module>
-        <module>common-util-exception-handler-starter</module>
+        <module>custom-exception-handler-kotlin</module>
+        <module>custom-exception-handler-kotlin-starter</module>
     </modules>
 
     <properties>
